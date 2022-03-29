@@ -4,10 +4,9 @@
 
 ## Date: March, 18, 2022
 
-
 ## Description
 --------------------
-Project 1: Graph is Bipartite
+* Project 1: Graph is Bipartite
 
 ## Given input file of the Project:
 --------------------
@@ -17,7 +16,7 @@ Project 1: Graph is Bipartite
 
 ## Platform information
 --------------------
-Cygwin Ver. 2.905, OS: Win10, 64-bit
+* Cygwin Ver. 2.905, OS: Win10, 64-bit
 
 
 ## Compilation Guide
